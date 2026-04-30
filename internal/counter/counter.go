@@ -8,7 +8,7 @@ import (
 	"os"
 	"unicode/utf8"
 
-	"github.com/philippb/loc/internal/lang"
+	"github.com/theoriuhd/loc/internal/lang"
 )
 
 const sniffSize = 8 * 1024

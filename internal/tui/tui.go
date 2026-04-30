@@ -19,10 +19,10 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"github.com/philippb/loc/internal/counter"
-	"github.com/philippb/loc/internal/lang"
-	"github.com/philippb/loc/internal/picker"
-	"github.com/philippb/loc/internal/walker"
+	"github.com/theoriuhd/loc/internal/counter"
+	"github.com/theoriuhd/loc/internal/lang"
+	"github.com/theoriuhd/loc/internal/picker"
+	"github.com/theoriuhd/loc/internal/walker"
 )
 
 type ScanFunc func(context.Context, string, walker.Options, func(counter.FileResult)) (counter.Totals, error)

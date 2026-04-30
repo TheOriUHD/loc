@@ -18,7 +18,7 @@ Install a release binary:
 os=$(uname -s | tr '[:upper:]' '[:lower:]')
 arch=$(uname -m)
 case "$arch" in x86_64) arch=amd64 ;; aarch64|arm64) arch=arm64 ;; esac
-curl -L "https://github.com/philippb/loc/releases/latest/download/loc-${os}-${arch}" -o /usr/local/bin/loc
+curl -L "https://github.com/theoriuhd/loc/releases/latest/download/loc-${os}-${arch}" -o /usr/local/bin/loc
 chmod +x /usr/local/bin/loc
 ```
 

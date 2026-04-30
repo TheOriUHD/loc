@@ -14,11 +14,11 @@ import (
 
 	"golang.org/x/term"
 
-	"github.com/philippb/loc/internal/counter"
-	"github.com/philippb/loc/internal/picker"
-	"github.com/philippb/loc/internal/report"
-	"github.com/philippb/loc/internal/tui"
-	"github.com/philippb/loc/internal/walker"
+	"github.com/theoriuhd/loc/internal/counter"
+	"github.com/theoriuhd/loc/internal/picker"
+	"github.com/theoriuhd/loc/internal/report"
+	"github.com/theoriuhd/loc/internal/tui"
+	"github.com/theoriuhd/loc/internal/walker"
 )
 
 var version = "dev"

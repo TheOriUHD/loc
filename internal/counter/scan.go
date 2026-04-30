@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/philippb/loc/internal/walker"
+	"github.com/theoriuhd/loc/internal/walker"
 )
 
 // Performance note, 2026-04-30 on an Apple NVMe-class laptop:

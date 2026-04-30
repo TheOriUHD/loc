@@ -11,7 +11,7 @@ import (
 	"github.com/charmbracelet/bubbles/table"
 	"github.com/charmbracelet/lipgloss"
 
-	"github.com/philippb/loc/internal/counter"
+	"github.com/theoriuhd/loc/internal/counter"
 )
 
 type LanguageRow struct {

@@ -1,4 +1,4 @@
-module github.com/philippb/loc
+module github.com/theoriuhd/loc
 
 go 1.22
 

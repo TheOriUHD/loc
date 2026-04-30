@@ -9,7 +9,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/philippb/loc/internal/lang"
+	"github.com/theoriuhd/loc/internal/lang"
 )
 
 var defaultIgnoredDirs = map[string]struct{}{

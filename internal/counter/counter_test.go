@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/philippb/loc/internal/lang"
+	"github.com/theoriuhd/loc/internal/lang"
 )
 
 func TestCountReaderTracksBlockStartedAfterCode(test *testing.T) {

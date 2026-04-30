@@ -6,8 +6,8 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"github.com/philippb/loc/internal/counter"
-	"github.com/philippb/loc/internal/walker"
+	"github.com/theoriuhd/loc/internal/counter"
+	"github.com/theoriuhd/loc/internal/walker"
 )
 
 func TestUnifiedModelStartsLoadingTransitionsToResultsAndQuits(test *testing.T) {

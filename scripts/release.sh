@@ -15,7 +15,7 @@ DRY_RUN=0
 NOTES=""
 NOTES_PROVIDED=0
 RELEASE_BRANCH="${RELEASE_BRANCH:-main}"
-EXPECTED_MODULE="${RELEASE_MODULE:-github.com/philippb/loc}"
+EXPECTED_MODULE="${RELEASE_MODULE:-github.com/theoriuhd/loc}"
 RELEASE_REPO_URL="https://github.com/theoriuhd/loc"
 GO_INSTALL_PATH="github.com/theoriuhd/loc/cmd/loc"
 

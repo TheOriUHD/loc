@@ -69,7 +69,7 @@ make_fixture_repo() {
 	cp "$ROOT/scripts/release.sh" "$repo/scripts/release.sh"
 	chmod +x "$repo/scripts/release.sh"
 	cat >"$repo/go.mod" <<'EOF'
-module github.com/philippb/loc
+module github.com/theoriuhd/loc
 
 go 1.22
 EOF

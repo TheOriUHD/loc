@@ -1,0 +1,92 @@
+[
+  {
+    "language": "C#",
+    "counts": {
+      "files": 30,
+      "code": 14632,
+      "comments": 82,
+      "blanks": 2362,
+      "total": 17076
+    }
+  },
+  {
+    "language": "JSON",
+    "counts": {
+      "files": 25,
+      "code": 2768,
+      "comments": 0,
+      "blanks": 0,
+      "total": 2768
+    }
+  },
+  {
+    "language": "JavaScript",
+    "counts": {
+      "files": 14,
+      "code": 1924,
+      "comments": 6,
+      "blanks": 382,
+      "total": 2312
+    }
+  },
+  {
+    "language": "CSS",
+    "counts": {
+      "files": 2,
+      "code": 1166,
+      "comments": 0,
+      "blanks": 200,
+      "total": 1366
+    }
+  },
+  {
+    "language": "Other",
+    "counts": {
+      "files": 37,
+      "code": 884,
+      "comments": 0,
+      "blanks": 97,
+      "total": 981
+    }
+  },
+  {
+    "language": "HTML",
+    "counts": {
+      "files": 8,
+      "code": 622,
+      "comments": 0,
+      "blanks": 38,
+      "total": 660
+    }
+  },
+  {
+    "language": "Markdown",
+    "counts": {
+      "files": 3,
+      "code": 172,
+      "comments": 0,
+      "blanks": 59,
+      "total": 231
+    }
+  },
+  {
+    "language": "Shell",
+    "counts": {
+      "files": 3,
+      "code": 91,
+      "comments": 3,
+      "blanks": 23,
+      "total": 117
+    }
+  },
+  {
+    "language": "YAML",
+    "counts": {
+      "files": 1,
+      "code": 26,
+      "comments": 0,
+      "blanks": 3,
+      "total": 29
+    }
+  }
+]

@@ -1,5 +1,7 @@
 # loc
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 `loc` counts code, comment, and blank lines in a directory tree. It is written in Go 1.22+, builds as a single static binary, and runs on Linux and macOS from anywhere on your `PATH`.
 
 ## Install
@@ -146,12 +148,11 @@ dist/loc-linux-amd64
 dist/loc-linux-arm64
 dist/loc-darwin-amd64
 dist/loc-darwin-arm64
+```
 
 ## Releasing
 
 Maintainers: `./scripts/release.sh X.Y.Z`
-
-```
 
 Remove installed binaries from `/usr/local/bin/loc` and `~/.local/bin/loc`:
 
@@ -196,3 +197,7 @@ go tool pprof ./loc-cpu.pprof
 loc /path/to/repo --no-interactive --profile mem
 go tool pprof ./loc-mem.pprof
 ```
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
